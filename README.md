@@ -1,2 +1,2 @@
-# Backend-Php
-backend php
+# Website-Lomba-Backend
+Website pendaftaran lomba menggunakan php
